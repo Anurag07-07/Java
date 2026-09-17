@@ -14,7 +14,7 @@
          System.out.println(f);
          System.out.println(m);
 
-        int e = ++a;
+         int e = ++a;
          System.out.println(e);
      }
  }
